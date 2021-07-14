@@ -132,3 +132,12 @@ body{
 .container:hover{
   box-shadow: 3px 4px 5px black;
 }
+.btn1:hover{
+     box-shadow: 3px 3px 3px black;
+     background-color:cyan
+
+}
+.btn2:hover {
+  box-shadow: 3px 3px 3px black;
+  background-color: cyan
+}
